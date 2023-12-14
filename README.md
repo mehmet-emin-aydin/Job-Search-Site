@@ -1,4 +1,4 @@
-#Proje Kapsami
+# Proje Kapsami
 Veritabanı Lab 2324 - Proje Duyurusu
 Gruplarınıza atanan konu kapsamında aşağıdaki özellikleri dikkate alarak, arayüzü olan, veritabanına bağlantı sağlanan bir uygulama gerçeklemeniz istenmektedir. Kullanacağınız veritabanı PostgreSQL olmalıdır. Uygulamanız için platform kısıtı yoktur, istediğiniz dili ve geliştirme ortamını kullanabilirsiniz. Tabloların oluşturulması ve verilerin girilmesi işlemi size aittir.  Gerçekleştirilecek veritabanı sistemi ve uygulaması için istenenler şunlardır:
 
@@ -39,6 +39,6 @@ Projeden alacağınız puan, dersin genel notuna %10 etki edecektir.
 
 
 
-#İşBul - İş Başvuru Sistemi
+# İşBul - İş Başvuru Sistemi
 Kullanıcı, sisteme kullanıcı adı ve şifre ile kayıt olup, login ekranından giriş yapar. Filtreleme veya arama yaparak kendisine uygun ilanların listelenmesini sağlar. Kendi hesap sayfasından çeşitli kişisel bilgilerini girip güncelleyebilmelidir (iş tecrübesi, okul vs.). Başvurduğu ilanlar kullanıcı sayfasında listelenmelidir. İlanların açılış tarihi ve başvuran sayıları ekranda görüntülenmeli, kullanıcı başvurduktan sonra başvuran sayısı güncellenmelidir. Ek özellikler olarak; çeşitli şirketlerin sertifika programları olmaktadır. Kullanıcılar bu kurslara da başvurabilir. 
 
